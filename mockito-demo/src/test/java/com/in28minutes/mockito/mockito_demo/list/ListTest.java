@@ -30,7 +30,7 @@ public class ListTest {
 	}
 	
 	@Test
-	void parameterReturns() {
+	void genericParameter() {
 		List listMock = mock(List.class);
 		
 		when(listMock.get(0)).thenReturn("some string of pruthvi");
