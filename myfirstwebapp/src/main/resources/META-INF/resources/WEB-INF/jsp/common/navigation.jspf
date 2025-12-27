@@ -1,0 +1,24 @@
+<nav class="navbar navbar-expand-md navbar-light bg-light mb-3 p-1">
+    <div class="container-fluid">
+        <!-- Left side -->
+        <a class="navbar-brand m-1" href="/list-todos">in28minutes</a>
+        <ul class="navbar-nav ps-3">
+            <li class="nav-item">
+                <a class="nav-link" href="/">Home</a>
+            </li>
+		</ul>
+		<ul class="navbar-nav ps-3">
+            <li class="nav-item">
+                <a class="nav-link" href="/list-todos">Todos</a>
+            </li>
+		
+        </ul>
+
+        <!-- Right side -->
+        <ul class="navbar-nav ms-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="/logout">Logout</a>
+            </li>
+        </ul>
+    </div>
+</nav>
