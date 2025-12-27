@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="com.in28minutes.learn_spring_framework.exercise1.springContext.DataService"/>
+    <fullyQualifiedTypeName name="com.in28minutes.learn_spring_framework.game.GameRunner"/>
+</qualifiedTypeNameHistroy>
